@@ -1,0 +1,10 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_code,region_name,phase,t_schools
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Total,1207
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Total,3491
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,2388
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,2251
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,2664
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Total,2801
+202223,Academic year,Regional,E92000001,England,E12000007,London,Total,3131
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Total,3916
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Total,2593

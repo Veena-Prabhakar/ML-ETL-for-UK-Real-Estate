@@ -1,0 +1,17 @@
+Running record_completeness : date_dimension...
+('Total Records in Dimension', 12)
+('Records from Source Table', 12)
+Completed record_completeness : date_dimension
+
+Running null_checks : date_dimension...
+(0, 0, 0, 0, 0)
+Completed null_checks : date_dimension
+
+Running duplicate_records_check : date_dimension...
+Completed duplicate_records_check : date_dimension
+
+Running accuracy_check : date_dimension...
+('Records in source not in target', 0)
+('Records in target not in source', 0)
+Completed accuracy_check : date_dimension
+

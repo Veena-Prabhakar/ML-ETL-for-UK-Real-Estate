@@ -1,0 +1,72 @@
+Feature,Importance
+Level 4 qualifications and above,0.530738021374415
+20-40,0.521151030121772
+One Bedroom Rent,0.5148268089343055
+All categories Rent,0.49415724555131263
+Two Bedrooms Rent,0.4931809762543267
+FlatPrice,0.49053239454127573
+Duration,0.48806470791873846
+Rental price (£),0.4670330923629423
+Three Bedrooms Rent,0.4638096691507966
+SemiDetachedPrice,0.46213783072885267
+TerracedPrice,0.4592958110483385
+Number of those aged 16+ who are unemployed,0.4583383831487758
+Number of those aged 16+ in employment who are employees,0.4535350979122419
+Four or more Bedrooms Rent,0.43726192180068374
+FlatPrice_log,0.4224490094761568
+Number of those aged 16+ in employment who are self-employed,0.4140495176860368
+DetachedPrice,0.4131371922917252
+SemiDetachedPrice_log,0.39085509942328855
+TerracedPrice_log,0.3812067480504357
+Qualification index score,0.36611064162208323
+DetachedPrice_log,0.3613884428784465
+Estimated number of households with at least 1 early-years or school age child,0.3590328272719774
+FTBPrice,0.3567544660512033
+Female population,0.3510374128112257
+Local authority code,0.35018106734907223
+All ages,0.3465075692670179
+Male population,0.34155404975015435
+FlatPrice_PctChange,0.34081280457423424
+SemiDetachedPrice_PctChange,0.3403672644959917
+0-20,0.3388693907227149
+Other qualifications,0.3344624451191196
+TerracedPrice_PctChange,0.3284280442456254
+DetachedPrice_PctChange,0.30504617582668836
+40-60,0.29479628923195345
+Buses total,0.28936886775919074
+OldPrice,0.2867275301816502
+FOOPrice,0.2836834724775315
+AveragePrice,0.28073346445730585
+Level 3 qualifications,0.2803289252648282
+CashPrice,0.2785132489114946
+MortgagePrice,0.27804547564911586
+Annual change (%),0.27333638522229825
+SalesVolume_log,0.2592843203026695
+AveragePrice_log,0.23651967485567696
+GDHI,0.2347899495129693
+OldSalesVolume,0.22555991543062395
+No qualifications,0.22400925658446602
+SalesVolume,0.2238577178357977
+Deprivation Average Score,0.2209541116959875
+NewPrice,0.20265509579330013
+Area (sq km),0.20108306239429125
+AveragePrice_PctChange,0.1938603158991793
+Level 1 and entry level qualifications,0.16210944745708125
+Property Type,0.15723092353907414
+Region code,0.1370189258169274
+Level 2 qualifications,0.134672436873799
+Qualification index rank (1 to 331),0.015708818421813663
+Petrol cars total,0.01553415119937368
+HGV total,0.015449162215210543
+Petrol LGV total,0.01148434537091666
+60+,0.005471340104379718
+LPG LGV total,0.005014802649875094
+Month,0.004485888402189419
+Apprenticeship,0.0024184040396013186
+Detached_SemiDetached_Ratio,0.0022230431695603346
+Index,0.001988636160759927
+Detached_Terraced_Ratio,0.001923180917055356
+Detached_Flat_Ratio,0.0008356200374411871
+Quarter,0.0006483843477631645
+HGV - Motorways,0.0006151657754439488
+"Personal transport (buses, cars and motorcycles)",0.0005140801250576588

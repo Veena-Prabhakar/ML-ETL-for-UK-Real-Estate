@@ -1,0 +1,17 @@
+2024-09-12 12:58:59,225 - Data Preprocessing, Feature Selection, Predicted Price_info - INFO - Starting execution of ../Code/Data Preprocessing, Feature Selection, Predicted Price.ipynb
+2024-09-12 12:59:19,885 - INFO - Applied Data processing
+2024-09-12 12:59:19,918 - INFO - Test Train split completed
+2024-09-12 12:59:20,495 - INFO - Applied Full pipeline stage
+2024-09-12 13:01:39,482 - INFO - Executed First feature selection Method - dynamic subset Recursive Feature Elimination
+2024-09-12 13:02:05,558 - INFO - Executed Second feature selection Method - Fixed threshold Recursive Feature Elimination
+2024-09-12 13:02:05,634 - INFO - Executed Third feature selection Method - correlation method
+2024-09-12 13:02:21,953 - INFO - Executed Fourth feature selection Method - Boosted Improved Garson Algorithm (IGA) 
+2024-09-12 13:17:37,624 - INFO - Tested and trained with Random Forest, Gradient Boosting, Ridge Regression, Linear Regression models
+2024-09-12 13:18:34,265 - INFO - Tested and trained with XG boost model
+2024-09-12 13:21:18,295 - INFO - Obtained Combined Feature set with Feature selection method 1 and 3
+2024-09-12 13:34:29,458 - INFO - Obtained Combined Feature set with Feature selection method 3 and 4
+2024-09-12 13:38:09,042 - INFO - Identified and saved final model- Random forest with Feature set method 3 and 4
+2024-09-12 13:38:10,836 - INFO - Beginning with Unseen data validation
+2024-09-12 13:38:14,717 - INFO - Predicted price for validation on preprocessed unseen data using saved final feature set and final model
+2024-09-12 13:38:15,482 - INFO - Completed validation
+2024-09-12 13:38:16,277 - Data Preprocessing, Feature Selection, Predicted Price_info - INFO - Successfully ran ../Code/Data Preprocessing, Feature Selection, Predicted Price.ipynb

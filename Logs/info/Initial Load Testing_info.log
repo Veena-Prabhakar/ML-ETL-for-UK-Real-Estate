@@ -1,0 +1,11 @@
+2024-09-12 13:39:08,330 - Initial Load Testing_info - INFO - Starting execution of ../Code/Initial Load Testing.ipynb
+2024-09-12 13:39:09,859 - INFO - Testing completed for Region dimension
+2024-09-12 13:39:10,011 - INFO - Testing completed for Date dimension
+2024-09-12 13:39:10,185 - INFO - Testing completed for Vechile dimension
+2024-09-12 13:39:10,447 - INFO - Testing completed for District dimension
+2024-09-12 13:39:10,707 - INFO - Testing completed for Property type dimension
+2024-09-12 13:39:11,099 - INFO - Testing completed for Education Employment dimension
+2024-09-12 13:39:11,321 - INFO - Testing completed for Demographics dimension
+2024-09-12 13:39:11,588 - INFO - Testing completed for Rental dimension
+2024-09-12 13:39:11,868 - INFO - Testing completed for Sales Transaction Fact
+2024-09-12 13:39:12,023 - Initial Load Testing_info - INFO - Successfully ran ../Code/Initial Load Testing.ipynb

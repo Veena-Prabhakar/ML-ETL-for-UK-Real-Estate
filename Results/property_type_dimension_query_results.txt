@@ -1,0 +1,20 @@
+Running record_completeness : property_type_dimension...
+('Total Records in Dimension', 3504)
+('Records from Source Table', 3504)
+Completed record_completeness : property_type_dimension
+
+Running null_checks : property_type_dimension...
+(0, 0, 0, 0, 0, 0, 0, 0)
+Completed null_checks : property_type_dimension
+
+Running duplicate_records_check : property_type_dimension...
+Completed duplicate_records_check : property_type_dimension
+
+Running accuracy_check : property_type_dimension...
+('Records in source not in target', 0)
+('Records in target not in source', 0)
+Completed accuracy_check : property_type_dimension
+
+Running inactive_records_check : property_type_dimension...
+Completed inactive_records_check : property_type_dimension
+

@@ -1,0 +1,10 @@
+2024-09-12 13:38:16,282 - Data Transformation_info - INFO - Starting execution of ../Code/Data Transformation.ipynb
+2024-09-12 13:38:20,532 - INFO - Reading Extracted data
+2024-09-12 13:38:20,776 - INFO - Applied previously identified full stage pipeline
+2024-09-12 13:38:26,832 - INFO - Predicted price on entire dataset
+2024-09-12 13:38:26,845 - INFO - Reverse scaled predicted price
+2024-09-12 13:38:26,870 - INFO - Appended predicted price with original extracted, preprocessed data 
+2024-09-12 13:38:34,629 - INFO - Completed Feature renaming
+2024-09-12 13:38:34,679 - INFO - Completed Feature addition
+2024-09-12 13:38:41,461 - INFO - Completed preprocessing
+2024-09-12 13:38:42,009 - Data Transformation_info - INFO - Successfully ran ../Code/Data Transformation.ipynb

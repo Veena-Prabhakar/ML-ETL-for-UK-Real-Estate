@@ -1,0 +1,91 @@
+2024-09-12 12:57:37,409 - Data Extraction_info - INFO - Starting execution of ../Code/Data Extraction.ipynb
+2024-09-12 12:57:39,927 - INFO - 
+Reading file: ../Data/Input/pp-2023.csv
+2024-09-12 12:57:41,403 - INFO - 
+Reading file: ../Data/Input/UK-HPI-full-file-2023-12.csv
+2024-09-12 12:57:42,040 - INFO - 
+Reading file: ../Data/Input/datadownload_rent_region.xlsx
+2024-09-12 12:57:44,440 - INFO - 
+Reading file: ../Data/Input/datadownload_rent_bedroom.xlsx
+2024-09-12 12:57:44,492 - INFO - 
+Reading file: ../Data/Input/mye22tablesew2023geogsv2-UK_population.xlsx
+2024-09-12 12:57:44,856 - INFO - 
+Reading file: ../Data/Input/mye22tablesew2023geogsv2-UK_population.xlsx
+2024-09-12 12:57:45,204 - INFO - 
+Reading file: ../Data/Input/mye22tablesew2023geogsv2-UK_population.xlsx
+2024-09-12 12:57:45,501 - INFO - 
+Reading file: ../Data/Input/mye22tablesew2023geogsv2-UK_population.xlsx
+2024-09-12 12:57:45,777 - INFO - 
+Reading file: ../Data/Input/datadownload_percent.xlsx
+2024-09-12 12:57:45,932 - INFO - 
+Reading file: ../Data/Input/TS006-2021-4_population_density.xlsx
+2024-09-12 12:57:46,007 - INFO - 
+Reading file: ../Data/Input/datadownload_population_ethinicty.xlsx
+2024-09-12 12:57:46,362 - INFO - 
+Reading file: ../Data/Input/datadownload_population_qualification_rowwise.xlsx
+2024-09-12 12:57:46,583 - INFO - 
+Reading file: ../Data/Input/TS067-2021-3_population_qualification_colwise.xlsx
+2024-09-12 12:57:46,868 - INFO - 
+Reading file: ../Data/Input/TS068-2021-3_population_student_not.xlsx
+2024-09-12 12:57:47,054 - INFO - 
+Reading file: ../Data/Input/datadownload.xlsx
+2024-09-12 12:57:47,327 - INFO - 
+Reading file: ../Data/Input/datadownload.xlsx
+2024-09-12 12:57:47,476 - INFO - 
+Reading file: ../Data/Input/datadownload.xlsx
+2024-09-12 12:57:47,570 - INFO - 
+Reading file: ../Data/Input/datadownload.xlsx
+2024-09-12 12:57:47,698 - INFO - 
+Reading file: ../Data/Input/regionaltable1s_employment_count_area.xlsx
+2024-09-12 12:57:48,041 - INFO - 
+Reading file: ../Data/Input/regionaltable1s_employment_count_area.xlsx
+2024-09-12 12:57:48,326 - INFO - 
+Reading file: ../Data/Input/regionaltable1s_employment_count_area.xlsx
+2024-09-12 12:57:48,665 - INFO - 
+Reading file: ../Data/Input/regionaltable1s_employment_count_area.xlsx
+2024-09-12 12:57:48,969 - INFO - 
+Reading file: ../Data/Input/regionaltable1s_employment_count_area.xlsx
+2024-09-12 12:57:49,343 - INFO - 
+Reading file: ../Data/Input/regionaltable1s_employment_count_area.xlsx
+2024-09-12 12:57:49,665 - INFO - 
+Reading file: ../Data/Input/regionaltable1s_employment_count_area.xlsx
+2024-09-12 12:57:49,986 - INFO - 
+Reading file: ../Data/Input/regionaltable1s_employment_count_area.xlsx
+2024-09-12 12:57:50,363 - INFO - 
+Reading file: ../Data/Input/regionaltable1s_employment_count_area.xlsx
+2024-09-12 12:57:50,758 - INFO - 
+Reading file: ../Data/Input/datadownload_GDHI.xlsx
+2024-09-12 12:57:50,982 - INFO - 
+Reading file: ../Data/Input/3a88ffc6_inflation_uk_1.csv
+2024-09-12 12:57:51,003 - INFO - 
+Reading file: ../Data/Input/data-school-pupils-and-their-characteristics.csv
+2024-09-12 12:57:51,034 - INFO - 
+Reading file: ../Data/Input/Sub-National_Road_Transport_Fuel_Consumption_Tables_2005-2022.xlsx
+2024-09-12 12:57:51,427 - INFO - 
+Reading file: ../Data/Input/region_traffic_by_vehicle_type_1993_2023.csv
+2024-09-12 12:57:51,453 - INFO - 
+Reading file: ../Data/Input/local_authority_traffic_1993_2023.csv
+2024-09-12 12:57:51,488 - INFO - 
+Reading file: ../Data/Input/bus01_travel_count_2023.ods
+2024-09-12 12:57:52,534 - INFO - 
+Reading file: ../Data/Input/rai0201_peak_hours_count.ods
+2024-09-12 12:57:53,205 - INFO - 
+Reading file: ../Data/Input/hospital-records_2023.xls
+2024-09-12 12:57:54,242 - INFO - 
+Reading file: ../Data/Input/data-education-and-training-statistics-for-the-uk_2023.csv
+2024-09-12 12:57:54,258 - INFO - 
+Reading file: ../Data/Input/subnationalestimatesofdwellingstockbytenure.xls
+2024-09-12 12:57:54,661 - INFO - Appended additional local authority codes into existing data
+2024-09-12 12:58:26,964 - INFO - Combined table 1-pricepaidhouse and table 2-regioncodes
+2024-09-12 12:58:39,419 - INFO - Combined table 1 and 2 with table -3 HPI
+2024-09-12 12:58:39,492 - INFO - Combined table 1, 2 and 3 with table -4 Rent
+2024-09-12 12:58:39,528 - INFO - Combined table 1, 2, 3 and 4 with table -5 Rent Bedrooms
+2024-09-12 12:58:42,128 - INFO - Combined table 1, 2, 3, 4 and 5 with table 6,7,8,9,10 - age
+2024-09-12 12:58:42,176 - INFO - Combined table 1 to 10 with table 13 - qualification
+2024-09-12 12:58:42,219 - INFO - Combined table 1 to 10, 13 with table 19 - house with child 
+2024-09-12 12:58:42,268 - INFO - Combined table 1 to 10, 13, 19 with table 18- Deprivation
+2024-09-12 12:58:43,706 - INFO - Combined table 1 to 10, 13, 18, 19 with table 17, 20 to 28 - Employment/Unemployment
+2024-09-12 12:58:43,755 - INFO - Combined table 1 to 10, 13, 17 to 28  with table 29 - GDHI
+2024-09-12 12:58:45,785 - INFO - Combined table 1 to 10, 13, 17 to 29  with table 31 - School
+2024-09-12 12:58:45,853 - INFO - Combined table 1 to 10, 13, 17 to 29, 31  with table 32 - Transport
+2024-09-12 12:58:59,222 - Data Extraction_info - INFO - Successfully ran ../Code/Data Extraction.ipynb

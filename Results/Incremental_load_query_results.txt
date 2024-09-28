@@ -1,0 +1,5 @@
+Running record_accuracy...
+('Records in source not in target', 0)
+('Records in target not in source', 0)
+Completed record_accuracy
+

@@ -1,0 +1,20 @@
+2024-09-12 13:39:12,082 - Data Incremental Loading_info - INFO - Starting execution of ../Code/Data Incremental Loading.ipynb
+2024-09-12 13:39:26,338 - INFO - Read the source data
+2024-09-12 13:39:26,563 - INFO - Sample data generation completed
+2024-09-12 13:39:26,620 - INFO - Required data identified and filtered
+2024-09-12 13:39:27,970 - INFO - Applied preprocessing pipeline stage
+2024-09-12 13:39:28,263 - INFO - Applied full stage pipeline
+2024-09-12 13:39:31,614 - INFO - Applied Price prediction model to predict price on incremental data
+2024-09-12 13:39:31,634 - INFO - Applied reverse scaling and appended the predicted price to original dataframe
+2024-09-12 13:39:31,993 - INFO - Column renaming and column addition completed 
+2024-09-12 13:39:32,154 - INFO - Testing completed for Region dimension
+2024-09-12 13:39:32,198 - INFO - Testing completed for Date dimension
+2024-09-12 13:39:32,290 - INFO - Testing completed for Vechile dimension
+2024-09-12 13:39:32,403 - INFO - Testing completed for Rental dimension
+2024-09-12 13:39:32,494 - INFO - Testing completed for District dimension
+2024-09-12 13:39:32,581 - INFO - Testing completed for Property type dimension
+2024-09-12 13:39:32,672 - INFO - Testing completed for Education employment dimension
+2024-09-12 13:39:32,782 - INFO - Testing completed for Demographics dimension
+2024-09-12 13:39:32,979 - INFO - Testing completed for Sales Transaction Fact dimension
+2024-09-12 13:39:33,033 - INFO - Metadata for all tables updated successfully
+2024-09-12 13:39:36,399 - Data Incremental Loading_info - INFO - Successfully ran ../Code/Data Incremental Loading.ipynb

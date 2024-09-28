@@ -1,0 +1,15 @@
+2024-09-12 13:38:42,018 - Data Initial Loading_info - INFO - Starting execution of ../Code/Data Initial Loading.ipynb
+2024-09-12 13:38:53,174 - INFO - Reading Transformed data
+2024-09-12 13:38:53,702 - INFO - Created all Fact table and Dimension Tables along with required Partitioning
+2024-09-12 13:38:59,954 - INFO - Loaded Governance table and Feature Importance table
+2024-09-12 13:39:00,198 - INFO - Initial load for region_dimension completed
+2024-09-12 13:39:00,244 - INFO - Initial load for date_dimension completed
+2024-09-12 13:39:00,809 - INFO - Initial load for rental_dimension completed
+2024-09-12 13:39:00,905 - INFO - Initial load for vehicle_dimension completed
+2024-09-12 13:39:01,283 - INFO - Initial load for district_dimension completed
+2024-09-12 13:39:01,824 - INFO - Initial load for property_type_dimension completed
+2024-09-12 13:39:02,453 - INFO - Initial load for education_dimension completed
+2024-09-12 13:39:03,046 - INFO - Initial load for demographics_dimension completed
+2024-09-12 13:39:04,964 - INFO - Initial load for sales_transactions_fact completed
+2024-09-12 13:39:05,014 - INFO - Metadata for all tables updated successfully
+2024-09-12 13:39:08,328 - Data Initial Loading_info - INFO - Successfully ran ../Code/Data Initial Loading.ipynb
